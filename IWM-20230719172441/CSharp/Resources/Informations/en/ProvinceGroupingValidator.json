@@ -1,0 +1,35 @@
+{
+  "ProvinceGrouping": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập @Code",
+      "CodeOverLength": "@Code quá dài"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập @Name",
+      "NameOverLength": "@Name quá dài"
+    },
+    "StatusId": {
+    },
+    "ParentId": {
+    },
+    "HasChildren": {
+    },
+    "Level": {
+    },
+    "Path": {
+      "PathEmpty": "Chưa nhập @Path",
+      "PathOverLength": "@Path quá dài"
+    },
+    "Parent": {
+      "ParentEmpty": "Chưa chọn @Parent",
+      "ParentNotExisted": "@Parent không tồn tại"
+    },
+    "Status": {
+      "StatusEmpty": "Chưa chọn @Status",
+      "StatusNotExisted": "@Status không tồn tại"
+    }
+  }
+}

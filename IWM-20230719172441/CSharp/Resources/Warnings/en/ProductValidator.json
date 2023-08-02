@@ -1,0 +1,111 @@
+{
+  "Product": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập @Code",
+      "CodeOverLength": "@Code quá dài"
+    },
+    "SupplierCode": {
+      "SupplierCodeEmpty": "Chưa nhập @SupplierCode",
+      "SupplierCodeOverLength": "@SupplierCode quá dài"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập @Name",
+      "NameOverLength": "@Name quá dài"
+    },
+    "Description": {
+      "DescriptionEmpty": "Chưa nhập @Description",
+      "DescriptionOverLength": "@Description quá dài"
+    },
+    "ScanCode": {
+      "ScanCodeEmpty": "Chưa nhập @ScanCode",
+      "ScanCodeOverLength": "@ScanCode quá dài"
+    },
+    "ERPCode": {
+      "ERPCodeEmpty": "Chưa nhập @ERPCode",
+      "ERPCodeOverLength": "@ERPCode quá dài"
+    },
+    "CategoryId": {
+    },
+    "ProductTypeId": {
+    },
+    "BrandId": {
+    },
+    "UnitOfMeasureId": {
+    },
+    "CodeGeneratorRuleId": {
+    },
+    "UnitOfMeasureGroupingId": {
+    },
+    "SalePrice": {
+    },
+    "RetailPrice": {
+    },
+    "TaxTypeId": {
+    },
+    "StatusId": {
+    },
+    "OtherName": {
+      "OtherNameEmpty": "Chưa nhập @OtherName",
+      "OtherNameOverLength": "@OtherName quá dài"
+    },
+    "TechnicalName": {
+      "TechnicalNameEmpty": "Chưa nhập @TechnicalName",
+      "TechnicalNameOverLength": "@TechnicalName quá dài"
+    },
+    "Note": {
+      "NoteEmpty": "Chưa nhập @Note",
+      "NoteOverLength": "@Note quá dài"
+    },
+    "IsPurchasable": {
+    },
+    "IsSellable": {
+    },
+    "IsNew": {
+    },
+    "UsedVariationId": {
+    },
+    "Used": {
+    },
+    "IsCopyRightedProduct": {
+    },
+    "IsBrandProduct": {
+    },
+    "Brand": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "BrandEmpty": "Chưa chọn @Brand",
+      "BrandNotExisted": "@Brand không tồn tại"
+    },
+    "Category": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "CategoryEmpty": "Chưa chọn @Category",
+      "CategoryNotExisted": "@Category không tồn tại"
+    },
+    "ProductType": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "ProductTypeEmpty": "Chưa chọn @ProductType",
+      "ProductTypeNotExisted": "@ProductType không tồn tại"
+    },
+    "Status": {
+      "StatusEmpty": "Chưa chọn @Status",
+      "StatusNotExisted": "@Status không tồn tại"
+    },
+    "TaxType": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "TaxTypeEmpty": "Chưa chọn @TaxType",
+      "TaxTypeNotExisted": "@TaxType không tồn tại"
+    },
+    "UnitOfMeasure": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "UnitOfMeasureEmpty": "Chưa chọn @UnitOfMeasure",
+      "UnitOfMeasureNotExisted": "@UnitOfMeasure không tồn tại"
+    },
+    "UnitOfMeasureGrouping": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "UnitOfMeasureGroupingEmpty": "Chưa chọn @UnitOfMeasureGrouping",
+      "UnitOfMeasureGroupingNotExisted": "@UnitOfMeasureGrouping không tồn tại"
+    }
+  }
+}

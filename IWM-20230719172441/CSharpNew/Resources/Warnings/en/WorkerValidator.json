@@ -1,0 +1,89 @@
+{
+  "Worker": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "@Code không được bỏ trống",
+      "CodeOverLength": "@Code vượt quá 500 kí tự"
+    },
+    "Name": {
+      "NameEmpty": "@Name không được bỏ trống",
+      "NameOverLength": "@Name vượt quá 500 kí tự"
+    },
+    "StatusId": {
+    },
+    "Birthday": {
+      "BirthdayEmpty": "@Birthday không được bỏ trống",
+      "BirthdayInvalid": "@Birthday không hợp lệ"
+    },
+    "Phone": {
+      "PhoneEmpty": "@Phone không được bỏ trống",
+      "PhoneOverLength": "@Phone vượt quá 500 kí tự"
+    },
+    "CitizenIdentificationNumber": {
+      "CitizenIdentificationNumberEmpty": "@CitizenIdentificationNumber không được bỏ trống",
+      "CitizenIdentificationNumberOverLength": "@CitizenIdentificationNumber vượt quá 500 kí tự"
+    },
+    "Email": {
+      "EmailEmpty": "@Email không được bỏ trống",
+      "EmailOverLength": "@Email vượt quá 500 kí tự"
+    },
+    "Address": {
+      "AddressEmpty": "@Address không được bỏ trống",
+      "AddressOverLength": "@Address vượt quá 500 kí tự"
+    },
+    "SexId": {
+    },
+    "WorkerGroupId": {
+    },
+    "NationId": {
+    },
+    "ProvinceId": {
+    },
+    "DistrictId": {
+    },
+    "WardId": {
+    },
+    "Username": {
+      "UsernameEmpty": "@Username không được bỏ trống",
+      "UsernameOverLength": "@Username vượt quá 500 kí tự"
+    },
+    "Password": {
+      "PasswordEmpty": "@Password không được bỏ trống",
+      "PasswordOverLength": "@Password vượt quá 500 kí tự"
+    },
+    "District": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "DistrictEmpty": "@District không được bỏ trống",
+      "DistrictNotExisted": "@District không tồn tại"
+    },
+    "Nation": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "NationEmpty": "@Nation không được bỏ trống",
+      "NationNotExisted": "@Nation không tồn tại"
+    },
+    "Province": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "ProvinceEmpty": "@Province không được bỏ trống",
+      "ProvinceNotExisted": "@Province không tồn tại"
+    },
+    "Sex": {
+      "SexEmpty": "@Sex không được bỏ trống",
+      "SexNotExisted": "@Sex không tồn tại"
+    },
+    "Status": {
+      "StatusEmpty": "@Status không được bỏ trống",
+      "StatusNotExisted": "@Status không tồn tại"
+    },
+    "Ward": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "WardEmpty": "@Ward không được bỏ trống",
+      "WardNotExisted": "@Ward không tồn tại"
+    },
+    "WorkerGroup": {
+      "WorkerGroupEmpty": "@WorkerGroup không được bỏ trống",
+      "WorkerGroupNotExisted": "@WorkerGroup không tồn tại"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "WorkerGroup": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "@Code không được bỏ trống",
+      "CodeOverLength": "@Code vượt quá 500 kí tự"
+    },
+    "Name": {
+      "NameEmpty": "@Name không được bỏ trống",
+      "NameOverLength": "@Name vượt quá 500 kí tự"
+    },
+    "StatusId": {
+    },
+    "Status": {
+      "StatusEmpty": "@Status không được bỏ trống",
+      "StatusNotExisted": "@Status không tồn tại"
+    }
+  }
+}

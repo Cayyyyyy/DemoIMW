@@ -1,0 +1,23 @@
+{
+  "UnitOfMeasureGroupingContent": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "UnitOfMeasureGroupingId": {
+    },
+    "UnitOfMeasureId": {
+    },
+    "Factor": {
+    },
+    "UnitOfMeasure": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "UnitOfMeasureEmpty": "Chưa chọn @UnitOfMeasure",
+      "UnitOfMeasureNotExisted": "@UnitOfMeasure không tồn tại"
+    },
+    "UnitOfMeasureGrouping": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "UnitOfMeasureGroupingEmpty": "Chưa chọn @UnitOfMeasureGrouping",
+      "UnitOfMeasureGroupingNotExisted": "@UnitOfMeasureGrouping không tồn tại"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ProvinceGrouping": {
+      "Id": "@Id",
+      "Code": "@Code",
+      "Name": "@Name",
+      "StatusId": "@StatusId",
+      "ParentId": "@ParentId",
+      "HasChildren": "@HasChildren",
+      "Level": "@Level",
+      "Path": "@Path",
+      "Parent": "@Parent",
+      "Status": "@Status",
+  }
+}

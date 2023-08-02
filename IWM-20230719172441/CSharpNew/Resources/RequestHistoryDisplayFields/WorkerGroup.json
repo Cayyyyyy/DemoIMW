@@ -1,0 +1,6 @@
+{
+    "Id": "long",
+    "Code": "string",
+    "Name": "string",
+    "StatusId": "long",
+}

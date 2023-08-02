@@ -1,0 +1,89 @@
+{
+  "Worker": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập @Code",
+      "CodeOverLength": "@Code quá dài"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập @Name",
+      "NameOverLength": "@Name quá dài"
+    },
+    "StatusId": {
+    },
+    "Birthday": {
+      "BirthdayEmpty": "Chưa nhập @Birthday",
+      "BirthdayInvalid": "@Birthday không hợp lệ"
+    },
+    "Phone": {
+      "PhoneEmpty": "Chưa nhập @Phone",
+      "PhoneOverLength": "@Phone quá dài"
+    },
+    "CitizenIdentificationNumber": {
+      "CitizenIdentificationNumberEmpty": "Chưa nhập @CitizenIdentificationNumber",
+      "CitizenIdentificationNumberOverLength": "@CitizenIdentificationNumber quá dài"
+    },
+    "Email": {
+      "EmailEmpty": "Chưa nhập @Email",
+      "EmailOverLength": "@Email quá dài"
+    },
+    "Address": {
+      "AddressEmpty": "Chưa nhập @Address",
+      "AddressOverLength": "@Address quá dài"
+    },
+    "SexId": {
+    },
+    "WorkerGroupId": {
+    },
+    "NationId": {
+    },
+    "ProvinceId": {
+    },
+    "DistrictId": {
+    },
+    "WardId": {
+    },
+    "Username": {
+      "UsernameEmpty": "Chưa nhập @Username",
+      "UsernameOverLength": "@Username quá dài"
+    },
+    "Password": {
+      "PasswordEmpty": "Chưa nhập @Password",
+      "PasswordOverLength": "@Password quá dài"
+    },
+    "District": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "DistrictEmpty": "Chưa chọn @District",
+      "DistrictNotExisted": "@District không tồn tại"
+    },
+    "Nation": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "NationEmpty": "Chưa chọn @Nation",
+      "NationNotExisted": "@Nation không tồn tại"
+    },
+    "Province": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "ProvinceEmpty": "Chưa chọn @Province",
+      "ProvinceNotExisted": "@Province không tồn tại"
+    },
+    "Sex": {
+      "SexEmpty": "Chưa chọn @Sex",
+      "SexNotExisted": "@Sex không tồn tại"
+    },
+    "Status": {
+      "StatusEmpty": "Chưa chọn @Status",
+      "StatusNotExisted": "@Status không tồn tại"
+    },
+    "Ward": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "WardEmpty": "Chưa chọn @Ward",
+      "WardNotExisted": "@Ward không tồn tại"
+    },
+    "WorkerGroup": {
+      "WorkerGroupEmpty": "Chưa chọn @WorkerGroup",
+      "WorkerGroupNotExisted": "@WorkerGroup không tồn tại"
+    }
+  }
+}

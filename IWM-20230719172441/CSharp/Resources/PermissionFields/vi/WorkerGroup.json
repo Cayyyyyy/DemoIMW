@@ -1,0 +1,9 @@
+{
+  "WorkerGroup": {
+      "Id": "@Id",
+      "Code": "@Code",
+      "Name": "@Name",
+      "StatusId": "@StatusId",
+      "Status": "@Status",
+  }
+}

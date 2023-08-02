@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\IWM-20230719172441\CSharp\obj\Debug\net6.0\IWM.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\IWM-20230719172441\CSharp\obj\Debug\net6.0\IWM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\IWM-20230719172441\CSharp\obj\Debug\net6.0\IWM.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\IWM-20230719172441\CSharp\obj\Debug\net6.0\IWM.AssemblyInfo.cs
+C:\Users\Admin\Downloads\IWM-20230719172441\CSharp\obj\Debug\net6.0\IWM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\IWM-20230719172441\CSharp\obj\Debug\net6.0\IWM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\IWM-20230719172441\CSharp\obj\Debug\net6.0\IWM.MvcApplicationPartsAssemblyInfo.cache

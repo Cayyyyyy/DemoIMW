@@ -1,0 +1,10 @@
+{
+    "Id": "long",
+    "Code": "string",
+    "Name": "string",
+    "StatusId": "long",
+    "ParentId": "long?",
+    "HasChildren": "bool",
+    "Level": "long",
+    "Path": "string",
+}

@@ -1,0 +1,27 @@
+{
+  "ProductType": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập @Code",
+      "CodeOverLength": "@Code quá dài"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập @Name",
+      "NameOverLength": "@Name quá dài"
+    },
+    "Description": {
+      "DescriptionEmpty": "Chưa nhập @Description",
+      "DescriptionOverLength": "@Description quá dài"
+    },
+    "StatusId": {
+    },
+    "Used": {
+    },
+    "Status": {
+      "StatusEmpty": "Chưa chọn @Status",
+      "StatusNotExisted": "@Status không tồn tại"
+    }
+  }
+}

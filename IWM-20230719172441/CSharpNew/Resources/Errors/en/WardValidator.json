@@ -1,0 +1,32 @@
+{
+  "Ward": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "@Code không được bỏ trống",
+      "CodeOverLength": "@Code vượt quá 500 kí tự"
+    },
+    "Name": {
+      "NameEmpty": "@Name không được bỏ trống",
+      "NameOverLength": "@Name vượt quá 500 kí tự"
+    },
+    "Priority": {
+    },
+    "DistrictId": {
+    },
+    "StatusId": {
+    },
+    "Used": {
+    },
+    "District": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "DistrictEmpty": "@District không được bỏ trống",
+      "DistrictNotExisted": "@District không tồn tại"
+    },
+    "Status": {
+      "StatusEmpty": "@Status không được bỏ trống",
+      "StatusNotExisted": "@Status không tồn tại"
+    }
+  }
+}

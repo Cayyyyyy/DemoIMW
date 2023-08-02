@@ -1,0 +1,32 @@
+{
+  "District": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "@Code không được bỏ trống",
+      "CodeOverLength": "@Code vượt quá 500 kí tự"
+    },
+    "Name": {
+      "NameEmpty": "@Name không được bỏ trống",
+      "NameOverLength": "@Name vượt quá 500 kí tự"
+    },
+    "Priority": {
+    },
+    "ProvinceId": {
+    },
+    "StatusId": {
+    },
+    "Used": {
+    },
+    "Province": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "ProvinceEmpty": "@Province không được bỏ trống",
+      "ProvinceNotExisted": "@Province không tồn tại"
+    },
+    "Status": {
+      "StatusEmpty": "@Status không được bỏ trống",
+      "StatusNotExisted": "@Status không tồn tại"
+    }
+  }
+}

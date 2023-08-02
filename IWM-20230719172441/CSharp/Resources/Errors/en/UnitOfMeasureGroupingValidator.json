@@ -1,0 +1,34 @@
+{
+  "UnitOfMeasureGrouping": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập @Code",
+      "CodeOverLength": "@Code quá dài"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập @Name",
+      "NameOverLength": "@Name quá dài"
+    },
+    "Description": {
+      "DescriptionEmpty": "Chưa nhập @Description",
+      "DescriptionOverLength": "@Description quá dài"
+    },
+    "UnitOfMeasureId": {
+    },
+    "StatusId": {
+    },
+    "Used": {
+    },
+    "Status": {
+      "StatusEmpty": "Chưa chọn @Status",
+      "StatusNotExisted": "@Status không tồn tại"
+    },
+    "UnitOfMeasure": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "UnitOfMeasureEmpty": "Chưa chọn @UnitOfMeasure",
+      "UnitOfMeasureNotExisted": "@UnitOfMeasure không tồn tại"
+    }
+  }
+}

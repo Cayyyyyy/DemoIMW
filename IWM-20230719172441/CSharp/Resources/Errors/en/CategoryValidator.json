@@ -1,0 +1,54 @@
+{
+  "Category": {
+    "Id": {
+      "IdNotExisted": "Đối tượng không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập @Code",
+      "CodeOverLength": "@Code quá dài"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập @Name",
+      "NameOverLength": "@Name quá dài"
+    },
+    "Prefix": {
+      "PrefixEmpty": "Chưa nhập @Prefix",
+      "PrefixOverLength": "@Prefix quá dài"
+    },
+    "Description": {
+      "DescriptionEmpty": "Chưa nhập @Description",
+      "DescriptionOverLength": "@Description quá dài"
+    },
+    "ParentId": {
+    },
+    "Path": {
+      "PathEmpty": "Chưa nhập @Path",
+      "PathOverLength": "@Path quá dài"
+    },
+    "Level": {
+    },
+    "HasChildren": {
+    },
+    "StatusId": {
+    },
+    "ImageId": {
+    },
+    "Used": {
+    },
+    "OrderNumber": {
+    },
+    "Image": {
+      "ImageEmpty": "Chưa chọn @Image",
+      "ImageNotExisted": "@Image không tồn tại"
+    },
+    "Parent": {
+      "ObjectUsed": "Đối tượng đã được sử dụng",
+      "ParentEmpty": "Chưa chọn @Parent",
+      "ParentNotExisted": "@Parent không tồn tại"
+    },
+    "Status": {
+      "StatusEmpty": "Chưa chọn @Status",
+      "StatusNotExisted": "@Status không tồn tại"
+    }
+  }
+}
